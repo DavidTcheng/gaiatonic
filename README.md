@@ -1,7 +1,3 @@
-Here is the plain text version of the `README.md` scaffold, without any markdown formatting:
-
----
-
 GaiaTonic
 AI + Environment | Trash Mapping | Fire Risk | Smart Village AI Visibility
 
@@ -91,7 +87,5 @@ Led by David K. Tcheng ([https://github.com/DavidTcheng](https://github.com/Davi
 ---
 
 Contact:
-Email: [dtcheng@gaiatonic.org](mailto:dtcheng@gaiatonic.org)
-Web: [www.gaiatonic.org](http://www.gaiatonic.org) (coming soon)
-
----
+Email: [davidtcheng@gmail.com](mailto:davidtcheng@gmail.com)
+Web: [www.gaiatonic.com](http://www.gaiatonic.com)
